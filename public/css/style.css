@@ -1,0 +1,12 @@
+li {
+list-style: none; width:100%;
+}
+span:nth-child(odd){
+	background: #c3c3c3;
+}
+span.label{
+	display: block!important; text-align: left;
+}
+span{
+	margin-bottom: 5px; 
+}
